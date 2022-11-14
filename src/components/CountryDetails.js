@@ -10,9 +10,9 @@ function CountryDetails({allCountries}){
 
     return(
         
-        <div class="col-7">
+        <div className="col-7">
             <h1>France</h1>
-            <table class="table">
+            <table className="table">
               <thead></thead>
               <tbody>
                 <tr>
